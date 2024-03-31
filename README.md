@@ -1,8 +1,28 @@
+## Spotify Music Explorer
+<img width="1673" alt="Screenshot 2024-03-31 at 1 13 15 PM" src="https://github.com/WilliamJizh/spotify-explorer/assets/65744833/5339ecad-0c0f-459a-8009-56be038bd960">
+
+## Introducion
+This project aims to help music lovers, Spotify users, and aspiring artists explore the musical attributes of songs beyond the hidden algorithms of streaming services. It offers a transparent and educational alternative to genre browsing and algorithmic recommendations.
+
+The project has four views and a search dashboard, allowing users to go from exploration to summary, from one track to a whole playlist. Users can easily find and add their favorite songs to a personalized selection.
+
+The views are:
+
+* Radar Chart: Shows the shared attributes of the user playlist.
+* Music Recommendation Tree: Gives personalized song suggestions based on a user-selected track.
+* Heatmap: Shows the patterns of musical attributes across different playlists.
+* Boxplot: Shows the distribution of attributes in the user playlist.
+* The project helps users discover new music, understand their preferences, and fit their mood or setting.
+
+
+![screencapture-localhost-3000-callback-2024-03-31-13_18_25](https://github.com/WilliamJizh/spotify-explorer/assets/65744833/a022d54a-757c-4649-a46e-f7bac2c4e9db)
+
 ## References
 
 1. **Nadieh Bremer's Gist on Radar Charts**  
    A sample implementation on radar charts.
-   [Nadieh Bremer's Radar Chart Gist](https://gist.github.com/nbremer/21746a9668ffdf6d8242)
+   [Nadieh Bremer's Radar Chart Gist](https://gist.github.com/nbremer/21746a9668ffdf6d8242)![Uploading Screenshot 2024-03-31 at 1.13.15 PM.png…]()
+
 
 2. **Radar Chart JavaScript Implementation**  
    A JavaScript implementation of a radar chart.
